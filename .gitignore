@@ -1,10 +1,5 @@
 
 .cache
-/build/
-dist
-python/
 .idea/
 *.log
 *.pyc
-deb-pack*/
-*.egg-info
